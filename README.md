@@ -5,3 +5,5 @@ git add
 git commit
 git push From Origin to Branch
 git pull
+git 
+git i finished
