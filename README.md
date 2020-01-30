@@ -9,3 +9,6 @@ git
 git i finished
 
 this is a new modification  my man
+thanks man
+forfor thank you
+for the help
